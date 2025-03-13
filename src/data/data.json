@@ -1,0 +1,194 @@
+{
+  "rows": [
+    {
+      "id": "electronics_1",
+      "label": "Electronics",
+      "value": 1400,
+      "children": [
+        {
+          "id": "phones_1",
+          "label": "Phones",
+          "value": 800
+        },
+        {
+          "id": "laptops_1",
+          "label": "Laptops",
+          "value": 700
+        }
+      ]
+    },
+    {
+      "id": "furniture_2",
+      "label": "Furniture",
+      "value": 1000,
+      "children": [
+        {
+          "id": "tables_2",
+          "label": "Tables",
+          "value": 300
+        },
+        {
+          "id": "chairs_2",
+          "label": "Chairs",
+          "value": 700
+        }
+      ]
+    },
+    {
+      "id": "clothing_3",
+      "label": "Clothing",
+      "value": 1300,
+      "children": [
+        {
+          "id": "shirts_3",
+          "label": "Shirts",
+          "value": 500
+        },
+        {
+          "id": "pants_3",
+          "label": "Pants",
+          "value": 400
+        },
+        {
+          "id": "jackets_3",
+          "label": "Jackets",
+          "value": 400
+        }
+      ]
+    },
+    {
+      "id": "groceries_4",
+      "label": "Groceries",
+      "value": 900,
+      "children": [
+        {
+          "id": "fruits_4",
+          "label": "Fruits",
+          "value": 450
+        },
+        {
+          "id": "vegetables_4",
+          "label": "Vegetables",
+          "value": 450
+        }
+      ]
+    },
+    {
+      "id": "toys_5",
+      "label": "Toys",
+      "value": 600,
+      "children": [
+        {
+          "id": "action_figures_5",
+          "label": "Action Figures",
+          "value": 300
+        },
+        {
+          "id": "dolls_5",
+          "label": "Dolls",
+          "value": 300
+        }
+      ]
+    },
+    {
+      "id": "books_6",
+      "label": "Books",
+      "value": 1200,
+      "children": [
+        {
+          "id": "fiction_6",
+          "label": "Fiction",
+          "value": 500
+        },
+        {
+          "id": "non_fiction_6",
+          "label": "Non-fiction",
+          "value": 400
+        },
+        {
+          "id": "comics_6",
+          "label": "Comics",
+          "value": 300
+        }
+      ]
+    },
+    {
+      "id": "beauty_7",
+      "label": "Beauty",
+      "value": 700,
+      "children": [
+        {
+          "id": "makeup_7",
+          "label": "Makeup",
+          "value": 400
+        },
+        {
+          "id": "skincare_7",
+          "label": "Skincare",
+          "value": 300
+        }
+      ]
+    },
+    {
+      "id": "sports_8",
+      "label": "Sports",
+      "value": 1000,
+      "children": [
+        {
+          "id": "football_8",
+          "label": "Football",
+          "value": 600
+        },
+        {
+          "id": "basketball_8",
+          "label": "Basketball",
+          "value": 400
+        }
+      ]
+    },
+    {
+      "id": "automotive_9",
+      "label": "Automotive",
+      "value": 1500,
+      "children": [
+        {
+          "id": "tires_9",
+          "label": "Tires",
+          "value": 500
+        },
+        {
+          "id": "tools_9",
+          "label": "Tools",
+          "value": 400
+        },
+        {
+          "id": "accessories_9",
+          "label": "Accessories",
+          "value": 600
+        }
+      ]
+    },
+    {
+      "id": "home_decor_10",
+      "label": "Home Decor",
+      "value": 1100,
+      "children": [
+        {
+          "id": "wall_art_10",
+          "label": "Wall Art",
+          "value": 400
+        },
+        {
+          "id": "vases_10",
+          "label": "Vases",
+          "value": 300
+        },
+        {
+          "id": "cushions_10",
+          "label": "Cushions",
+          "value": 400
+        }
+      ]
+    }
+  ]
+}
