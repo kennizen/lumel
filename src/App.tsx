@@ -113,7 +113,7 @@ function App() {
     rowState![parentId].children.forEach((child) => {
       const contribution = (rowChildState![child].value / rowState![parentId].value) * 100;
       const nv = newVal * (contribution / 100);
-      res[child].variance = getVariance(res[child].value, nv);
+      res[child].variance = getVariance(rowChildState![child].value, newVal);
       res[child].value = nv;
     });
 
